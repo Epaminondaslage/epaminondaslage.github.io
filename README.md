@@ -1,7 +1,3 @@
 
-# Portifólio do Prof. Epaminondas Lage
-# epaminondaslage.github.io
+#Professor do Departamento de Engenharia Elétrica no Curso de Eletrotécnica do CEFET-MG. Atua nas disciplinas Laboratório de Informática Aplicada e Circuitos Elétricos.
 
-Apresentação de alguns trabalhos, objetivos e habilidades no desenvolvimento de projetos, juntamente com informações de contato.
-
-##  teste
