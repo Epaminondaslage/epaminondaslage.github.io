@@ -1,2 +1,7 @@
+
+# Portifólio do Prof. Epaminondas Lage
 # epaminondaslage.github.io
-Portifólio pessoal do Prof. Epaminondas Lage
+
+Apresentação de alguns trabalhos, objetivos e habilidades no desenvolvimento de projetos, juntamente com informações de contato.
+
+##  teste
